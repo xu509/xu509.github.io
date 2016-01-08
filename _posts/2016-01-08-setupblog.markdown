@@ -73,10 +73,12 @@ tags: jekyll githubPages
 
 这时候，就可以通过 http://localhost:4000看到jekyll模版了。
 [参考](http://jekyllrb.com/docs/quickstart/)
+
 ---
 
-##上传第一篇博文
+##4 上传第一篇博文
 myblog的目录_posts下存储的就是博文，可直接复制一篇后，就能在本机看到效果。具体的jekyll编写规则需查阅官网：http://jekyll.bootcss.com/docs/posts/。
+
 一切就绪后，将根目录直接提交至github，就大功告成！。
 
 这是我的github page项目地址：https://github.com/xu509/xu509.github.io
